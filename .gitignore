@@ -1,0 +1,10 @@
+_Store
+npm-debug.log
+yarn-error.log
+.idea
+*.iml
+.DS_Store
+.vscode
+node_modules
+dist
+# src/views/*/images
